@@ -1,1 +1,3 @@
-My name is Samarth
+My name is Yash
+Age: 20
+BSc Computer Science
